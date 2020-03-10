@@ -127,7 +127,7 @@ If you are interested in the followed approach, take a look at
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/ndPPPhz/git-tree/pulls" target="_blank">`https://github.com/ndPPPhz/git-tree/pulls`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/ndPPPhz/TruthTableOption/pulls" target="_blank">`https://github.com/ndPPPhz/git-tree/pulls`</a>.
 
 ---
 
