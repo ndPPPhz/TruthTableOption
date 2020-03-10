@@ -112,26 +112,7 @@ If you are interested in the followed approach, take a look at
 - [Table Of The Truth](https://en.wikipedia.org/wiki/Truth_table)
 - [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map)
 
-## Contributing
-
-### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/ndPPPhz/TruthTableOption/pulls" target="_blank">`https://github.com/ndPPPhz/git-tree/pulls`</a>.
-
 ---
-
 
 ## License
 
