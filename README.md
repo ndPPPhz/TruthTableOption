@@ -1,5 +1,6 @@
-# TruthTableOption
-![](https://img.shields.io/badge/swift-unit%20test-green)
+<img src="https://user-images.githubusercontent.com/6486741/115246417-c8356c80-a11d-11eb-9aa7-0ad2af255fd4.png" width=100> 
+
+# TruthTableOption ![](https://img.shields.io/badge/swift-unit%20test-green)
 
 The TruthTableOption is a Swift protocol which helps both Devs and QAs on writing human-readable and easy editable tests.
 It's applicable anywhere you can synthesize your logic with a [Table Of The Truth](https://en.wikipedia.org/wiki/Truth_table).
